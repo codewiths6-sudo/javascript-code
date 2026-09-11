@@ -10,7 +10,7 @@ Welcome to my JavaScript learning repository! This project contains my daily pra
 javascript-code/
 │
 ├── 1-basics/                      # Fundamental JS concepts
-│   ├── data_types.js             # JS Primitives & Non-primitives
+│   ├── data_types.js             # JS Primitives 
 │   ├── input_output.js           # Readline & Terminal IO
 │   ├── if_else.js                # Conditional statements
 │   ├── switch_case.js            # Switch cases
